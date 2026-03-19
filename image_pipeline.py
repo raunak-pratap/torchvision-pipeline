@@ -4,7 +4,7 @@ image_pipeline.py
 A production-ready PyTorch image data pipeline with custom augmentations.
 Designed for scalable Deep Learning / Computer Vision workflows.
 
-Author: Your AGI Company
+Author: Raunak Pratap Singh
 """
 
 import os
